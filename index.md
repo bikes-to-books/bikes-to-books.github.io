@@ -2,18 +2,17 @@
 
 San Francisco is famous for many things, one of which is its vast literary legacy, a legacy that stretches back to its earliest days. On January 25, 1988, the San Francisco Board of Supervisors approved a proposal by Lawrence Ferlinghetti and City Lights Books to rename 12 small San Francisco streets after famous authors and artists who had lived and worked in the City.
 
+<div width=100%>
 |Jack London|Mark Twain|Ambrose Bierce|Dashiell Hammett|
 |---|---|---|---|
 |![Jack London](/images/jacklondon.png)|![Mark Twain](/images/marktwain.png)|![Ambrose Bierce](/images/ambrosebierce.png)|![Dashiell Hammett](/images/dashiellhammett.png)|
+</div>
 
 On Sunday, October 2, 1988, a ceremony and unveiling of new street signs was held at City Lights Bookstore (which was also celebrating its 35th anniversary). Mayor Art Agnos declared October 2nd to be “City Lights Bookstore Day in San Francisco,” and an enormous crowd showed up at City Lights. After a number of speeches by literary notables, the first signs were unveiled at Kerouac Street (between City Lights and Vesuvio’s Bar) and William Saroyan Place (between Spec’s Bar and the Tosca Café), where the celebration continued into the night.
 
-
-
-![Isadora Duncan](/images/isadoraduncan.png)
-![Frank Norris Jr.](/images/franknorris.png)
-![Richard Henry Dana Jr.](/images/richardhenrydana.png)
-![Benny Bufano](/images/bennybufano.png)
+|Isadora Duncan|Frank Norris Jr.|Richard Henry Dana Jr.|Benny Bufano|
+|---|---|---|---|
+|![Isadora Duncan](/images/isadoraduncan.png)|![Frank Norris Jr.](/images/franknorris.png)|![Richard Henry Dana Jr.](/images/richardhenrydana.png)|![Benny Bufano](/images/bennybufano.png)|
 
 
 
