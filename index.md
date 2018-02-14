@@ -6,7 +6,7 @@ San Francisco is famous for many things, one of which is its vast literary legac
 
 |Jack London|Mark Twain|Ambrose Bierce|
 | --- | --- | --- | --- |
-|![Jack London](/images/jacklondon.png)|![Mark Twain](/images/marktwain.png)|![Ambrose Bierce](/images/ambrosebierce.png)|
+|![Jack London](/images/jacklondon.png){:height="36px" width="36px"}|![Mark Twain](/images/marktwain.png)|![Ambrose Bierce](/images/ambrosebierce.png)|
 
 |Isadora Duncan|Jack Kerouac|Dashiell Hammett|
 |---|---|---|
