@@ -36,7 +36,7 @@ Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burr
 		<td>Kenneth Rexroth</td>
 		<td>William Saroyan</td>
 	</tr>
-<table>
+</table>
 	
 
 ![Bob Kaufman](/images/bobkaufman.png)
