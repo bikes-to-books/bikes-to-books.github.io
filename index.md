@@ -11,7 +11,7 @@ San Francisco is famous for many things, one of which is its vast literary legac
 |Isadora Duncan|Jack Kerouac|Dashiell Hammett|
 |---|---|---|
 |![Isadora Duncan](/images/isadoraduncan.png)|![Jack Kerouac](/images/jackkerouac.png)|![Dashiell Hammett](/images/dashiellhammett.png)|
-|![](/images/isadora_duncan_lane.png)|![](/images/jack_kerouac_alley.png)|!()[/images/daishell_hammett_street.png]|
+|![](/images/isadora_duncan_lane.png =250x)|![](/images/jack_kerouac_alley.png)|!()[/images/daishell_hammett_street.png]|
 
 On Sunday, October 2, 1988, a ceremony and unveiling of new street signs was held at City Lights Bookstore (which was also celebrating its 35th anniversary). Mayor Art Agnos declared October 2nd to be “City Lights Bookstore Day in San Francisco,” and an enormous crowd showed up at City Lights. After a number of speeches by literary notables, the first signs were unveiled at Kerouac Street (between City Lights and Vesuvio’s Bar) and William Saroyan Place (between Spec’s Bar and the Tosca Café), where the celebration continued into the night.
 
