@@ -38,7 +38,7 @@ Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burr
 </table>
 	
 
-![Bob Kaufman](/images/bobkaufman.png?s=100)
+![Bob Kaufman](/images/bobkaufman.png){:height="36px" width="36px"}
 ![Lawrence Ferlinghetti](/images/lawrenceferlinghetti.png)
 ![Kenneth Rexroth](/images/kennethrexroth.png)
 ![William Saroyan](/images/williamsaroyan.png)
