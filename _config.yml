@@ -1,4 +1,3 @@
-remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+theme: jekyll-theme-slate
 title: Bikes to Books
 description: Welcome to Bikes to Books
