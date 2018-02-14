@@ -1,6 +1,6 @@
 ## Bikes to Books
 
-San Francisco is famous for many things, one of which is its vast literary legacy, a legacy that stretches back to its earliest days. On January 25, 1988, the San Francisco Board of Supervisors approved a proposal by Lawrence Ferlinghetti and City Lights Books to rename 12 small San Francisco streets after famous authors and artists who had lived and worked in the City.
+San Francisco vast literary legacy stretches back to its earliest days. On January 25, 1988, the San Francisco Board of Supervisors approved a proposal by Lawrence Ferlinghetti and City Lights Books to rename 12 small San Francisco streets after famous authors and artists who had lived and worked in the City.
 
 
 
