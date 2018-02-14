@@ -25,10 +25,10 @@ Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burr
 
 <table>
 	<tr width="100%">
-		<td><img src="/images/bobkaufman.png)"></td>
-		<td><img src="/images/lawrenceferlinghetti.png)"></td>
-		<td><img src="/images/kennethrexroth.png)"></td>
-		<td><img src="/images/williamsaroyan.png)"></td>
+		<td><img src="/images/bobkaufman.png"></td>
+		<td><img src="/images/lawrenceferlinghetti.png"></td>
+		<td><img src="/images/kennethrexroth.png"></td>
+		<td><img src="/images/williamsaroyan.png"></td>
 	</tr>
 	<tr>
 		<td>Bob Kaufman</td>
