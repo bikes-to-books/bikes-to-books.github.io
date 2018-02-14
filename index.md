@@ -23,12 +23,12 @@ On Sunday, October 2, 1988, a ceremony and unveiling of new street signs was hel
 Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burrito Justice, an amateur historian/cartographer, joined forces to devise a bike tour and interactive map connecting all 12 streets and authors/artists, from Jack London to Jack Kerouac, South Park to North Beach. The 7.1 mile tour, which takes between two and three hours to complete, is admittedly not for the faint of heart nor gear—these streets were not chosen for their proximity to bike lanes, and there is plenty of traffic to dodge, hills to climb, one-way streets, and even a set of stairs. But it’s a diverting and unique way to celebrate both the literary and the adventurous spirit of San Francisco.
 
 
-<table style="width:50%">
+<table style="width:500px">
 	<tr>
-		<td style="width:20%"><img src="/images/bobkaufman.png"></td>
-		<td style="width:100px"><img src="/images/lawrenceferlinghetti.png"></td>
-		<td style="width:100px"><img src="/images/kennethrexroth.png"></td>
-		<td style="width:100px"><img src="/images/williamsaroyan.png"></td>
+		<td><img src="/images/bobkaufman.png"></td>
+		<td><img src="/images/lawrenceferlinghetti.png"></td>
+		<td><img src="/images/kennethrexroth.png"></td>
+		<td><img src="/images/williamsaroyan.png"></td>
 	</tr>
 	<tr>
 		<td>Bob Kaufman</td>
