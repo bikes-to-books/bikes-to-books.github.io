@@ -1,3 +1,4 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
 title: Bikes to Books
 description: Welcome to Bikes to Books
