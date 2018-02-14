@@ -17,14 +17,27 @@ San Francisco is famous for many things, one of which is its vast literary legac
 On Sunday, October 2, 1988, a ceremony and unveiling of new street signs was held at City Lights Bookstore (which was also celebrating its 35th anniversary). Mayor Art Agnos declared October 2nd to be “City Lights Bookstore Day in San Francisco,” and an enormous crowd showed up at City Lights. After a number of speeches by literary notables, the first signs were unveiled at Kerouac Street (between City Lights and Vesuvio’s Bar) and William Saroyan Place (between Spec’s Bar and the Tosca Café), where the celebration continued into the night.
 
 ||Frank Norris Jr.|Richard Henry Dana Jr.|Benny Bufano|
-|---|---|---|---|
-|![Isadora Duncan](/images/isadoraduncan.png)|![Frank Norris Jr.](/images/franknorris.png)|![Richard Henry Dana Jr.](/images/richardhenrydana.png)|![Benny Bufano](/images/bennybufano.png)|
-
-
+|---|---|---|
+|![Frank Norris Jr.](/images/franknorris.png)|![Richard Henry Dana Jr.](/images/richardhenrydana.png)|![Benny Bufano](/images/bennybufano.png)|
 
 Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burrito Justice, an amateur historian/cartographer, joined forces to devise a bike tour and interactive map connecting all 12 streets and authors/artists, from Jack London to Jack Kerouac, South Park to North Beach. The 7.1 mile tour, which takes between two and three hours to complete, is admittedly not for the faint of heart nor gear—these streets were not chosen for their proximity to bike lanes, and there is plenty of traffic to dodge, hills to climb, one-way streets, and even a set of stairs. But it’s a diverting and unique way to celebrate both the literary and the adventurous spirit of San Francisco.
 
 
+<table>
+	<tr width="100%">
+		<td><img src="/images/bobkaufman.png)"></td>
+		<td><img src="/images/lawrenceferlinghetti.png)"></td>
+		<td><img src="/images/kennethrexroth.png)"></td>
+		<td><img src="/images/williamsaroyan.png)"></td>
+	</tr>
+	<tr>
+		<td>Bob Kaufman</td>
+		<td>Lawrence Ferlinghetti</td>
+		<td>Kenneth Rexroth</td>
+		<td>William Saroyan</td>
+	</tr>
+<table>
+	
 
 ![Bob Kaufman](/images/bobkaufman.png)
 ![Lawrence Ferlinghetti](/images/lawrenceferlinghetti.png)
