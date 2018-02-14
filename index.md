@@ -25,7 +25,7 @@ Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burr
 
 <table style="width:50%">
 	<tr>
-		<td style="width:100px"><img src="/images/bobkaufman.png"></td>
+		<td style="width:20%"><img src="/images/bobkaufman.png"></td>
 		<td style="width:100px"><img src="/images/lawrenceferlinghetti.png"></td>
 		<td style="width:100px"><img src="/images/kennethrexroth.png"></td>
 		<td style="width:100px"><img src="/images/williamsaroyan.png"></td>
