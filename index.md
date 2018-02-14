@@ -6,7 +6,7 @@ San Francisco is famous for many things, one of which is its vast literary legac
 
 |Jack London|Mark Twain|Ambrose Bierce|
 | --- | --- | --- | --- |
-|![Jack London](/images/jacklondon.png){:height="100px"}|![Mark Twain](/images/marktwain.png)|![Ambrose Bierce](/images/ambrosebierce.png)|
+|![Jack London](/images/jacklondon.png){:height="100px"}|![Mark Twain](/images/marktwain.png){:height="100px"}|![Ambrose Bierce](/images/ambrosebierce.png){:height="100px"}|
 
 |Isadora Duncan|Jack Kerouac|Dashiell Hammett|
 |---|---|---|
@@ -38,10 +38,10 @@ Twenty-five years later, Nicole Gluckstern, a local author/city cyclist and Burr
 </table>
 	
 
-![Bob Kaufman](/images/bobkaufman.png){:height="36px" width="36px"}
-![Lawrence Ferlinghetti](/images/lawrenceferlinghetti.png)
-![Kenneth Rexroth](/images/kennethrexroth.png)
-![William Saroyan](/images/williamsaroyan.png)
+![Bob Kaufman](/images/bobkaufman.png){:height="100px"}
+![Lawrence Ferlinghetti](/images/lawrenceferlinghetti.png){:height="100px"}
+![Kenneth Rexroth](/images/kennethrexroth.png){:height="100px"}
+![William Saroyan](/images/williamsaroyan.png){:height="100px"}
 
 
 
