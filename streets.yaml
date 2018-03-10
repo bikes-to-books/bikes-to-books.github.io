@@ -1,0 +1,157 @@
+
+import:
+    - https://www.nextzen.org/carto/refill-style/11/refill-style.yaml
+    #- https://burritojustice.github.io/map-assets/demo.yaml
+
+# sources:
+#    nextzen: 
+#        # url: https://{s}.tiles.nextzen.org/mapzen/vector/v1/512/all/{z}/{x}/{y}.topojson
+#        # url_subdomains: ['a', 'b', 'c', 'd']
+#        url_params: 
+#            api_key: DpCrhQqsR2igQPEINRTfcw
+    # mapzen:
+    #     type: TopoJSON
+    #     url: https://tile.mapzen.com/mapzen/vector/v1/all/{z}/{x}/{y}.topojson
+    #     url_params: 
+    #         api_key: global.sdk_mapzen_api_key
+
+
+global:
+    sdk_api_key: DpCrhQqsR2igQPEINRTfcw
+    sdk_road_shields: false
+    sdk_building_extrude: false
+    draw_swap_txt_source:
+        red:
+            filter:
+                all:
+                - function() { return global.id_1861[feature.id] || global.streets_1861[feature.name]; }
+                - $zoom: { min: 15 } 
+
+
+            draw:
+                lines:
+                    color: red
+                text-blend-order:
+                    priority: 0
+                    # move_into_tile: true
+                    font:
+                        fill: white
+                        size: 24px
+                        stroke:
+                            color: black
+                            width: 4px
+                        # style: bold
+
+
+    swap_text_source: | 
+        function() {
+            return global.id_1861[feature.id] || global.streets_1861[feature.name] || feature.name;
+            }
+            
+    swap_text_year: | 
+       function() {
+          return global.id_1861[feature.id] || global.streets_1861[feature].name || feature.name;
+            }    
+
+
+    id_1861:
+        # uses OSM IDs to override old names in the old street list (think 3rd St vs Railroad Ave)
+    
+        134406452: Mark Twain Alley
+        288265975: Richard Henry Dana Jr. Way
+
+    streets_1861:
+        Jack London Alley: Jack London Alley
+        Ambrose Bierce Alley: Ambrose  
+        Dashiell Hammett St.: Dashiell Hammett St.
+        Burritt St.: Burritt St.
+        Isadora Duncan Ln.: Isadora Duncan Ln.
+        Frank Norris St.: Frank Norris St.
+        Via Buffano: Via Buffano
+        Bob Kaufman Alley: Bob Kaufman Alley
+        Via Ferlinghetti: Via Ferlinghetti
+        Kenneth Rexroth Pl.: Kenneth Rexroth Pl.
+        Jack Kerouac Alley: Jack Kerouac Alley
+        Saroyan Pl.: Saroyan Pl.
+
+
+
+
+        
+layers:
+    pois:
+        highway-exit:
+            visible: false
+    roads: 
+        default-outline-width:
+            old_labels: global.draw_swap_txt_source
+
+
+        
+        
+
+        highway:
+            visible: false
+        major_road:
+            trunk_primary:
+                routes:
+                    labels-trunk_primary-route-z16:
+                        old_labels: global.draw_swap_txt_source
+                    labels-trunk_primary-route-z17-z18:
+                        old_labels: global.draw_swap_txt_source
+                labels-trunk_primary-z13:
+                    old_labels: global.draw_swap_txt_source
+                labels-trunk_primary-z14:
+                    old_labels: global.draw_swap_txt_source
+                labels-trunk_primary-z15:
+                    old_labels: global.draw_swap_txt_source
+                labels-trunk_primary-z16:
+                    old_labels: global.draw_swap_txt_source
+                labels-trunk_primary-z17:
+                    old_labels: global.draw_swap_txt_source
+                labels-trunk_primary-z18:
+                    old_labels: global.draw_swap_txt_source
+            secondary:
+                labels-secondary-z15:
+                    old_labels: global.draw_swap_txt_source
+                labels-secondary-z16:
+                    old_labels: global.draw_swap_txt_source
+                labels-secondary-z17:
+                    old_labels: global.draw_swap_txt_source
+                labels-secondary-z18:
+                    old_labels: global.draw_swap_txt_source
+            tertiary:
+                labels-tertiary-z15:
+                    old_labels: global.draw_swap_txt_source
+                labels-tertiary-z16:
+                    old_labels: global.draw_swap_txt_source
+                labels-tertiary-z17:
+                    old_labels: global.draw_swap_txt_source
+                labels-tertiary-z18:
+                    old_labels: global.draw_swap_txt_source
+        minor_road:
+            # labels-minor_road:
+            #     filter: { $zoom: { min: 13 } }
+
+
+            labels-minor_road-z15:
+                old_labels: global.draw_swap_txt_source
+            labels-minor_road-z16:
+                old_labels: global.draw_swap_txt_source
+            labels-minor_road-z17:
+                old_labels: global.draw_swap_txt_source
+            labels-minor_road-z18:
+                old_labels: global.draw_swap_txt_source
+        service_road:
+            labels-service_road:
+                old_labels: global.draw_swap_txt_source
+                # filter: { $zoom: { min: 13 } }
+                # text-blend-order:
+                    # priority: 150
+            # labels-service_road-z18:
+            #     old_labels: global.draw_swap_txt_source
+        path:
+            pedestrian:
+                old_labels: global.draw_swap_txt_source
+
+
